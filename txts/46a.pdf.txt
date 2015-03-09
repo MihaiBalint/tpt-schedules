@@ -1,0 +1,316 @@
+                                         BASTION
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+  Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+5       57                                                            5           --
+6       27        57                                                  6          27
+7       22        46                                                  7          27
+8       15        57                                                  8          27
+9       57                                                            9          27
+10      57                                                           10          27
+11      27        57                                                 11          27
+12      27        57                                                 12          27
+13      27        57                                                 13          27
+14      29        52                                                 14          27
+15      29                                                           15          27
+16      00        27        57                                       16          27
+17      57                                                           17          27
+18      57                                                           18          27
+19      57                                                           19          27
+20      57                                                           20          27
+21       --                                                          21           --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+Obs   - circula deviat pe ruta Badea Cartan - Economu - Liceul Silvic
+              POLIŢIA JUD. TIMIŞ
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+  Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+5       58                                                            5           --
+6       28        58                                                  6          28
+7       23        47                                                  7          28
+8       16        58                                                  8          28
+9       58                                                            9          28
+10      58                                                           10          28
+11      28        58                                                 11          28
+12      28        58                                                 12          28
+13      28        58                                                 13          28
+14      30        53                                                 14          28
+15      30                                                           15          28
+16      01        28        58                                       16          28
+17      58                                                           17          28
+18      58                                                           18          28
+19      58                                                           19          28
+20      58                                                           20          28
+21       --                                                          21           --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+Obs   - circula deviat pe ruta Badea Cartan - Economu - Liceul Silvic
+                                                    RATT
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+  Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+ 5       --                                                           5           --
+ 6      00        30                                                  6          30
+ 7      00        25         48                                       7          30
+ 8      17                                                            8          30
+ 9      00                                                            9          30
+10      00                                                           10          30
+11      00        30                                                 11          30
+12      00        30                                                 12          30
+13      00        30                                                 13          30
+14      00        31         55                                      14          30
+15      31                                                           15          30
+16      03        30                                                 16          30
+17      00                                                           17          30
+18      00                                                           18          30
+19      00                                                           19          30
+20      00                                                           20          30
+21      00                                                           21           --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+Obs   - circula deviat pe ruta Badea Cartan - Economu - Liceul Silvic
+                           TELEGRAFULUI
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+ 5       --                                                           5           --
+ 6      01        31                                                  6          31
+ 7      01        26                                                  7          31
+ 8        -                                                           8          31
+ 9      01                                                            9          31
+10      01                                                           10          31
+11      01        31                                                 11          31
+12      01        31                                                 12          31
+13      01        31                                                 13          31
+14      01        56                                                 14          31
+15        -                                                          15          31
+16      04        31                                                 16          31
+17      01                                                           17          31
+18      01                                                           18          31
+19      01                                                           19          31
+20      01                                                           20          31
+21      01                                                           21           --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                               GARA DE EST
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6       02        32                                                  6          32
+7       02        27                                                  7          32
+8         -                                                           8          32
+9       02                                                            9          32
+10      02                                                            10         32
+11      02        32                                                  11         32
+12      02        32                                                  12         32
+13      02        32                                                  13         32
+14      02        57                                                  14         32
+15        -                                                           15         32
+16      05        32                                                  16         32
+17      02                                                            17         32
+18      02                                                            18         32
+19      02                                                            19         32
+20      02                                                            20         32
+21      02                                                            21          --
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                                     UMT
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+5        --                                                           5           --
+6       04        34                                                  6          34
+7       04        29                                                  7          34
+8        --                                                           8          34
+9       04                                                            9          34
+10      04                                                           10          34
+11      04        34                                                 11          34
+12      04        34                                                 12          34
+13      04        34                                                 13          34
+14      04        59                                                 14          34
+15        -                                                          15          34
+16      07        34                                                 16          34
+17      04                                                           17          34
+18      04                                                           18          34
+19      04                                                           19          34
+20      04                                                           20          34
+21      04                                                           21           --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                            CVARTAL UMT
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5     --                                                              5           --
+6 06              36                                                  6          36
+7 06              31                                                  7          36
+8     --                                                              8          36
+9 06                                                                  9          36
+10 06                                                                 10         36
+11 06             36                                                  11         36
+12 06             36                                                  12         36
+13 06             36                                                  13         36
+14 06                                                                 14         36
+15 01                                                                 15         36
+16 09             36                                                  16         36
+17 06                                                                 17         36
+18 06                                                                 18         36
+1906 06
+  0                                                                   19         36
+20 06                                                                 20         36
+21 06                                                                 21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                        BADEA CARTAN
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6        --                                                           6           --
+7       49                                                            7           --
+8       18                                                            8           --
+9        --                                                           9           --
+10       --                                                           10          --
+11       --                                                           11          --
+12       --                                                           12          --
+13       --                                                           13          --
+14      32                                                            14          --
+15      32                                                            15          --
+16       --                                                           16          --
+17       --                                                           17          --
+18       --                                                           18          --
+19       --                                                           19          --
+20       --                                                           20          --
+21       --                                                           21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                             SAMUIL MICU
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6        --                                                           6           --
+7       50                                                            7           --
+8       19                                                            8           --
+9        --                                                           9           --
+10       --                                                           10          --
+11       --                                                           11          --
+12       --                                                           12          --
+13       --                                                           13          --
+14      33                                                            14          --
+15      33                                                            15          --
+16       --                                                           16          --
+17       --                                                           17          --
+18       --                                                           18          --
+19       --                                                           19          --
+20       --                                                           20          --
+21       --                                                           21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                  RENASTERII
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6        --                                                           6           --
+7       51                                                            7           --
+8       20                                                            8           --
+9        --                                                           9           --
+10       --                                                           10          --
+11       --                                                           11          --
+12       --                                                           12          --
+13       --                                                           13          --
+14      34                                                            14          --
+15      34                                                            15          --
+16       --                                                           16          --
+17       --                                                           17          --
+18       --                                                           18          --
+19       --                                                           19          --
+20       --                                                           20          --
+21       --                                                           21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                 V.ECONOMU
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6        --                                                           6           --
+7       53                                                            7           --
+8       22                                                            8           --
+9        --                                                           9           --
+10       --                                                           10          --
+11       --                                                           11          --
+12       --                                                           12          --
+13       --                                                           13          --
+14      36                                                            14          --
+15      36                                                            15          --
+16       --                                                           16          --
+17       --                                                           17          --
+18       --                                                           18          --
+19       --                                                           19          --
+20       --                                                           20          --
+21       --                                                           21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                            LICEUL SILVIC
+      BASTION - Str. T.IONESCU - Str.M.KOGALNICEANU - Str.A.IMBROANE - MUZEUL SATULUI -
+                Str.A.IMBROANE - Str.M.KOGALNICEANU - Str.T.IONESCU - BASTION
+ Obs: faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                ZILE LUCRĂTOARE                                                        ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                             MINUTE
+5        --                                                           5           --
+6        --                                                           6           --
+7       56                                                            7           --
+8       25                                                            8           --
+9        --                                                           9           --
+10       --                                                           10          --
+11       --                                                           11          --
+12       --                                                           12          --
+13       --                                                           13          --
+14      39                                                            14          --
+15      39                                                            15          --
+16       --                                                           16          --
+17       --                                                           17          --
+18       --                                                           18          --
+19       --                                                           19          --
+20       --                                                           20          --
+21       --                                                           21          --
+
+
+       Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+

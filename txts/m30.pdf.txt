@@ -1,0 +1,502 @@
+                                     BASTION
+                                   LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        30                                                     6         --
+
+6        30                                                     7         00
+
+7        08       45                                            8         --
+
+8         -                                                     9         30
+
+9        00       51                                           10         --
+
+10        --                                                   11         --
+
+11       30                                                    12         30
+
+12       30                                                    13         --
+
+13       30                                                    14         30
+
+14       30                                                    15         --
+
+15       30                                                    16         30
+
+16       30                                                    17         --
+
+17       30                                                    18         30
+
+18       30                                                    19         --
+
+19       30                                                    20         --
+
+20       30                                                    21         --
+
+21       21                                                    22         --
+
+22       30                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                    P-TA BADEA CARTAN
+                       LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        34                                                     6         --
+
+6        34                                                     7         04
+
+7        12       49                                            8         --
+
+8         -                                                     9         34
+
+9        04       55                                           10         --
+
+10        --                                                   11         --
+
+11       34                                                    12         34
+
+12       34                                                    13         --
+
+13       34                                                    14         34
+
+14       34                                                    15         --
+
+15       34                                                    16         34
+
+16       34                                                    17         --
+
+17       34                                                    18         34
+
+18       34                                                    19         --
+
+19       34                                                    20         --
+
+20       34                                                    21         --
+
+21       25                                                    22         --
+
+22       35                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                P-TA GEN. V. ECONOMU
+                    LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        04       38                                            6         09
+
+6        38                                                     7         08
+
+7        16       53                                            8         --
+
+8         -                                                     9         38
+
+9        08       59                                           10         --
+
+10        --                                                   11         --
+
+11       38                                                    12         38
+
+12       38                                                    13         --
+
+13       38                                                    14         38
+
+14       38                                                    15         --
+
+15       38                                                    16         38
+
+16       38                                                    17         --
+
+17       38                                                    18         38
+
+18       38                                                    19         --
+
+19       38                                                    20         --
+
+20       38                                                    21         --
+
+21       29                                                    22         --
+
+22       38                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                                    LUGOJULUI
+                                   LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        07       41                                            6         12
+
+6        41                                                     7         11
+
+7        19       56                                            8         --
+
+8         -                                                     9         41
+
+9        11                                                    10         --
+
+10       02                                                    11         --
+
+11       41                                                    12         41
+
+12       41                                                    13         --
+
+13       41                                                    14         41
+
+14       41                                                    15         --
+
+15       41                                                    16         41
+
+16       41                                                    17         --
+
+17       41                                                    18         41
+
+18       41                                                    19         --
+
+19       41                                                    20         --
+
+20       41                                                    21         --
+
+21       32                                                    22         --
+
+22       41                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                     PRIMARIA GHIRODA
+                        LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        09       43                                            6         14
+
+6        43                                                     7         13
+
+7        21       58                                            8         --
+
+8         -                                                     9         43
+
+9        13                                                    10         --
+
+10       04                                                    11         --
+
+11       43                                                    12         43
+
+12       43                                                    13         --
+
+13       43                                                    14         43
+
+14       43                                                    15         --
+
+15       43                                                    16         43
+
+16       43                                                    17         --
+
+17       43                                                    18         43
+
+18       43                                                    19         --
+
+19       43                                                    20         --
+
+20       43                                                    21         --
+
+21       34                                                    22         --
+
+22       43                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                      IALOMITEI ( BUCLA )
+                         LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        11       45                                            6         16
+
+6        45                                                     7         15
+
+7        23                                                     8         --
+
+8        00                                                     9         45
+
+9        15                                                    10         --
+
+10       06                                                    11         --
+
+11       45                                                    12         45
+
+12       45                                                    13         --
+
+13       45                                                    14         45
+
+14       45                                                    15         --
+
+15       45                                                    16         45
+
+16       45                                                    17         --
+
+17       45                                                    18         45
+
+18       45                                                    19         --
+
+19       45                                                    20         --
+
+20       45                                                    21         --
+
+21       36                                                    22         --
+
+22       45                                                    23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                                    IALOMITEI
+                                   LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        15                                                     6         20
+
+6        00       49                                            7         --
+
+7        25                                                     8         00
+
+8        19                                                     9         --
+
+9        30                                                    10         00
+
+10        --                                                   11         --
+
+11       00                                                    12         --
+
+12       00                                                    13         00
+
+13       00                                                    14         --
+
+14       00                                                    15         00
+
+15       00                                                    16         --
+
+16       00                                                    17         00
+
+17       00                                                    18
+18       00                                                    19         00
+
+19       05                                                    20         --
+
+20       00                                                    21         --
+
+21       00                                                    22         --
+
+22       00       49                                           23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                     PRIMARIA GHIRODA
+                        LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        17                                                     6         22
+
+6        04       53                                            7         --
+
+7        29                                                     8         04
+
+8        23                                                     9         --
+
+9        34                                                    10         04
+
+10        --                                                   11         --
+
+11       04                                                    12         --
+
+12       04                                                    13         04
+
+13       04                                                    14         --
+
+14       04                                                    15         04
+
+15       04                                                    16         --
+
+16       04                                                    17         04
+
+17       04                                                    18
+18       04                                                    19         04
+
+19       09                                                    20         --
+
+20       04                                                    21         --
+
+21       04                                                    22         --
+
+22       04       53                                           23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                                    LUGOJULUI
+                                   LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        19                                                     6         24
+
+6        06       55                                            7         --
+
+7        31                                                     8         06
+
+8        25                                                     9         --
+
+9        36                                                    10         06
+
+10        --                                                   11         --
+
+11       06                                                    12         --
+
+12       06                                                    13         06
+
+13       06                                                    14         --
+
+14       06                                                    15         06
+
+15       06                                                    16         --
+
+16       06                                                    17         06
+
+17       06                                                    18
+18       06                                                    19         06
+
+19       11                                                    20         --
+
+20       06                                                    21         --
+
+21       06                                                    22         --
+
+22       06       55                                           23         --
+
+23        --                                                   24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                  P-TA GEN.V.ECONOMU
+                      LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        22                                                     6         27
+
+6        11                                                     7         --
+
+7        00       36                                            8         11
+
+8        30                                                     9         --
+
+9        41                                                    10         11
+
+10        --                                                   11         --
+
+11       11                                                    12         --
+
+12       11                                                    13         11
+
+13       11                                                    14         --
+
+14       11                                                    15         11
+
+15       11                                                    16         --
+
+16       11                                                    17         11
+
+17       11                                                    18
+18       11                                                    19         11
+
+19       16                                                    20         --
+
+20       11                                                    21         --
+
+21       11                                                    22         --
+
+22       11                                                    23         --
+
+23       00                                                    24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+                     P-TA BADEA CARTAN
+                        LINIA M30
+                                          TIMISOARA - GHIRODA
+                 ZI LUCRĂTOARE                                                  ZI NELUCRATOARE
+ORA                       MINUTE                               ORA                        MINUTE
+4         --                                                    5         --
+
+5        26                                                     6         32
+
+6        15                                                     7         --
+
+7        04       40                                            8         15
+
+8        34                                                     9         --
+
+9        45                                                    10         15
+
+10        --                                                   11         --
+
+11       15                                                    12         --
+
+12       15                                                    13         15
+
+13       15                                                    14         --
+
+14       15                                                    15         15
+
+15       15                                                    16         --
+
+16       15                                                    17         15
+
+17       15                                                    18
+18       15                                                    19         15
+
+19       20                                                    20         --
+
+20       15                                                    21         --
+
+21       15                                                    22         --
+
+22       15                                                    23         --
+
+23       04                                                    24         --
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+                                                                                     - NU circula Duminica
+

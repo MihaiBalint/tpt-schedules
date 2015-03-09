@@ -1,0 +1,407 @@
+                                             BASTION
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5      55                                                            6          45
+6      34                                                            7          45
+7      07        49                                                  8          45
+8      27                                                            9          45
+9      15                                                            10         45
+10     11                                                            11         45
+11     17                                                            12         45
+12     15                                                            13         45
+13     12                                                            14         50
+14     12        55                                                  15         52
+15     37                                                            16           -
+16     22                                                            17         08
+17     21                                                            18         18
+18     15                                                            19         28
+19     15                                                            20         35
+20     15                                                            21         45
+21     20                                                            22           --
+22     15                                                            23           --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                           STR. N.FILIPESCU
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5      57                                                            6          47
+6      36                                                            7          47
+7      09        51                                                  8          47
+8      29                                                            9          47
+9      17                                                            10         47
+10     13                                                            11         47
+11     19                                                            12         47
+12     17                                                            13         47
+13     14                                                            14         52
+14     14        57                                                  15         54
+15     39                                                            16           -
+16     24                                                            17         10
+17     23                                                            18         20
+18     17                                                            19         30
+19     17                                                            20         37
+20     17                                                            21         47
+21     22                                                            22           --
+22     17                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                        PESTALOZZI
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5      59                                                            6          49
+6      38                                                            7          49
+7      11        55                                                  8          49
+8      31                                                            9          49
+9      19                                                            10         49
+10     15                                                            11         49
+11     21                                                            12         49
+12     19                                                            13         49
+13     16                                                            14         54
+14     16        59                                                  15         56
+15     41                                                            16           -
+16     26                                                            17         12
+17     25                                                            18         22
+18     19                                                            19         32
+19     19                                                            20         39
+20     19                                                            21         49
+21     24                                                            22           --
+22     19                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                         RADIO TIMISOARA
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          50
+6      00        39                                                  7          50
+7      12        56                                                  8          50
+8      32                                                            9          50
+9      20                                                            10         50
+10     16                                                            11         50
+11     22                                                            12         50
+12     20                                                            13         50
+13     17                                                            14         55
+14     17                                                            15         57
+15     00        42                                                  16           --
+16     27                                                            17         13
+17     26                                                            18         23
+18     20                                                            19         33
+19     20                                                            20         40
+20     20                                                            21         50
+21     25                                                            22           --
+22     20                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                           IEPURELUI
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          52
+6      02        41                                                  7          52
+7      14                                                            8          52
+8      00        34                                                  9          52
+9      22                                                            10         52
+10     18                                                            11         52
+11     24                                                            12         52
+12     22                                                            13         52
+13     19                                                            14         57
+14     19                                                            15         59
+15     02        44                                                  16           --
+16     29                                                            17         15
+17     28                                                            18         25
+18     22                                                            19         35
+19     22                                                            20         42
+20     22                                                            21         52
+21     27                                                            22           --
+22     22                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                               STR. A.SAGUNA
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          53
+6      03        42                                                  7          53
+7      15                                                            8          53
+8      02        35                                                  9          53
+9      23                                                            10         53
+10     19                                                            11         53
+11     25                                                            12         53
+12     23                                                            13         53
+13     20                                                            14         58
+14     20                                                            15           -
+15     03        45                                                  16         00
+16     30                                                            17         16
+17     29                                                            18         26
+18     23                                                            19         36
+19     23                                                            20         43
+20     23                                                            21         53
+21     28                                                            22           --
+22     23                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                  IOSIF VULCAN
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          55
+6      05        44                                                  7          55
+7      17                                                            8          55
+8      04        37                                                  9          55
+9      25                                                            10         55
+10     21                                                            11         55
+11     27                                                            12         55
+12     25                                                            13         55
+13     22                                                            14           --
+14     22                                                            15         00
+15     05        47                                                  16         02
+16     32                                                            17         18
+17     31                                                            18         28
+18     25                                                            19         38
+19     25                                                            20         45
+20     25                                                            21         55
+21     30                                                            22           --
+22     25                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                             CARLOVA
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          56
+6      06        45                                                  7          56
+7      18                                                            8          56
+8      05        38                                                  9          56
+9      26                                                            10         56
+10     22                                                            11         56
+11     28                                                            12         56
+12     26                                                            13         56
+13     23                                                            14           --
+14     23                                                            15         01
+15     06        48                                                  16         03
+16     33                                                            17         19
+17     32                                                            18         29
+18     26                                                            19         39
+19     26                                                            20         46
+20     26                                                            21         56
+21     31                                                            22           --
+22     26                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                      CAPRIOAREI
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          57
+6      07        46                                                  7          57
+7      19                                                            8          57
+8      06        39                                                  9          57
+9      27                                                            10         57
+10     23                                                            11         57
+11     29                                                            12         57
+12     27                                                            13         57
+13     24                                                            14           --
+14     24                                                            15         02
+15     07        49                                                  16         04
+16     34                                                            17         20
+17     33                                                            18         30
+18     27                                                            19         40
+19     27                                                            20         47
+20     27                                                            21         57
+21     32                                                            22           --
+22     27                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                         LEVANTICA
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          58
+6      08        47                                                  7          58
+7      20                                                            8          58
+8      07        40                                                  9          58
+9      28                                                            10         58
+10     24                                                            11         58
+11     30                                                            12         58
+12     28                                                            13         58
+13     25                                                            14           --
+14     25                                                            15         03
+15     08        50                                                  16         05
+16     35                                                            17         21
+17     34                                                            18         31
+18     28                                                            19         41
+19     28                                                            20         48
+20     28                                                            21         58
+21     33                                                            22           --
+22     28                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                                APATEU
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6          59
+6      09        48                                                  7          59
+7      21                                                            8          59
+8      08        41                                                  9          59
+9      29                                                            10         59
+10     25                                                            11         59
+11     31                                                            12         59
+12     29                                                            13         59
+13     26                                                            14           --
+14     26                                                            15         04
+15     09        51                                                  16         06
+16     36                                                            17         22
+17     35                                                            18         32
+18     29                                                            19         42
+19     29                                                            20         49
+20     29                                                            21         59
+21     34                                                            22           --
+22     29                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                           PLASTIQUE FORM
+BASTION - BV.IONESCU -STR.FILIPESCU - BV.REVOLUTIEI - STR.PESTALOZZI
+ -STR.IEPURELUI - STR.BABA DOCHIA - PRINTUL TURCESC - STR. ANDREI
+ SAGUNA - STR. IOSIF VULCAN - STR. CAMPULUI - STR. ALBASTRELELOR -
+     STR. IOSIF VULCAN - STR. ANDREI SAGUNA - STR.BABA DOCHIA -
+  STR.IEPURELUI - STR.PESTALOZZI - SPLAI NISTRULUI - BV.REVOLUTIEI -
+                        STR.HECTOR - BASTION
+
+               ZILE LUCRĂTOARE                                                         ZILE NELUCRĂTOARE
+ORA                        MINUTE                                    ORA                            MINUTE
+4       --                                                           5            --
+5       --                                                           6            --
+6      10        49                                                  7          00
+7      22                                                            8          00
+8      09        42                                                  9          00
+9      30                                                            10         00
+10     26                                                            11         00
+11     32                                                            12         00
+12     30                                                            13         00
+13     27                                                            14         00
+14     27                                                            15         05
+15     10        52                                                  16         07
+16     37                                                            17         23
+17     36                                                            18         33
+18     30                                                            19         43
+19     30                                                            20         50
+20     30                                                            21           --
+21     35                                                            22         00
+22     30                                                            23          --
+23      --
+
+
+              Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+      Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+

@@ -1,0 +1,509 @@
+                  BEREGSAU MIC CAMIN
+                      LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        10                                                              5           45                     -
+
+6        25                                                              6            -                     -
+
+7         -                                                              7            -                     -
+
+8        10                                                              8           30                     -
+
+9         -                                                              9            -                   00
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       10                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       25                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       25                                                             17           00                     -
+
+18        -                                                             18            -                   30
+
+19       40                                                             19            -                     -
+
+20        -                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       30                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+      BEREGSAU MARE STRADA VI
+            LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        17                                                              5           52                     -
+
+6        32                                                              6            -                     -
+
+7         -                                                              7            -                     -
+
+8        18                                                              8           37                     -
+
+9         -                                                              9            -                   07
+
+10        -                                                             10            -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       18                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       33                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       33                                                             17           07                     -
+
+18        -                                                             18            -                   37
+
+19       48                                                             19            -                     -
+
+20        -                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       37                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+              BEREGSAU MARE CAMIN
+                  LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        18                                                              5           53                     -
+
+6        33                                                              6            -                     -
+
+7         -                                                              7            -                     -
+
+8        20                                                              8           38                     -
+
+9         -                                                              9            -                   08
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       20                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       35                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       35                                                             17           08                     -
+
+18        -                                                             18            -                   38
+
+19       50                                                             19            -                     -
+
+20        -                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       38                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                 SACALAZ CLAAS
+                                  LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        24                                                              5           59                     -
+
+6        39                                                              6            -                     -
+
+7         -                                                              7            -                     -
+
+8        28                                                              8           44                     -
+
+9         -                                                              9            -                   14
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       28                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       43                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       43                                                             17           14                     -
+
+18        -                                                             18            -                   44
+
+19       58                                                             19            -                     -
+
+20        -                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       44                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                 SACALAZ BALTA
+                                  LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        25                                                              5            -                     -
+
+6        40                                                              6           00                     -
+
+7         -                                                              7            -                     -
+
+8        29                                                              8           45                     -
+
+9         -                                                              9            -                   15
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       29                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       44                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       44                                                             17           15                     -
+
+18        -                                                             18            -                   45
+
+19       59                                                             19            -                     -
+
+20        -                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       45                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                          SACALAZ BISERICA
+                            LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                              5        SAMBATA              DUMINICA
+
+5        26                                                              6           01                     -
+
+6        41                                                              7            -                     -
+
+7         -                                                              8           46                     -
+
+8        30                                                              9            -                   16
+
+9         -                                                             10            -                     -
+
+10        -                                                             11            -                     -
+
+11        -                                                             12            -                     -
+
+12        -                                                             13            -                     -
+
+13       30                                                             14            -                     -
+
+14        -                                                             15            -                     -
+
+15       45                                                             16            -                     -
+
+16        -                                                             17           16                     -
+
+17       45                                                             18            -                   46
+
+18        -                                                             19            -                     -
+
+19        -                                                             20            -                     -
+
+20       00                                                             21            -                     -
+
+21        -                                                             22            -                     -
+
+22        -                                                             23            -                     -
+
+23       46                                                             24            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                               SACALAZ MOARA
+                                LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        27                                                              5            -                     -
+
+6        42                                                              6           02                     -
+
+7         -                                                              7            -                     -
+
+8        31                                                              8           47                     -
+
+9         -                                                              9            -                   17
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       31                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       46                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       46                                                             17           17                     -
+
+18        -                                                             18            -                   47
+
+19        -                                                             19            -                     -
+
+20       01                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       47                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                            G. ALEXANDRESCU
+                               LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        35                                                              5            -                     -
+
+6        50                                                              6           10                     -
+
+7         -                                                              7            -                     -
+
+8        41                                                              8           55                     -
+
+9         -                                                              9            -                   25
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       41                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15       56                                                             15            -                     -
+
+16        -                                                             16            -                     -
+
+17       56                                                             17           25                     -
+
+18        -                                                             18            -                   55
+
+19        -                                                             19            -                     -
+
+20       11                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       55                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                                         CETATII
+                                       LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        39                                                              5            -                     -
+
+6        54                                                              6           14                     -
+
+7         -                                                              7            -                     -
+
+8        45                                                              8           59                     -
+
+9         -                                                              9            -                   29
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       45                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15        -                                                             15            -                     -
+
+16       00                                                             16            -                     -
+
+17        -                                                             17           29                     -
+
+18       00                                                             18            -                   59
+
+19        -                                                             19            -                     -
+
+20       15                                                             20            -                     -
+
+21        -                                                             21            -                     -
+
+22        -                                                             22            -                     -
+
+23       59                                                             23            -                     -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+                        CIRCUMVALATIUNII
+                           LINIA M43
+                         BEREGSAU MIC-TIMISOARA
+                   ZI LUCRĂTOARE                                                            ZI NELUCRATOARE
+ORA                          MINUTE                                     ORA                             MINUTE
+4         -                                                                       SAMBATA              DUMINICA
+
+5        41                                                              5            -                     -
+
+6        56                                                              6           16                     -
+
+7         -                                                              7            -                     -
+
+8        47                                                              8            -                     -
+
+9         -                                                              9           01                    31
+
+10        -                                                             10            -                     -
+
+11        -                                                             11            -                     -
+
+12        -                                                             12            -                     -
+
+13       47                                                             13            -                     -
+
+14        -                                                             14            -                     -
+
+15        -                                                             15            -                     -
+
+16       02                                                             16            -                     -
+
+17        -                                                             17           31                     -
+
+18       02                                                             18            -                     -
+
+19        -                                                             19            -                    01
+                                                                                                       -
+20       17                                                             20            -
+                                                                                                       -
+21        -                                                             21            -
+                                                                                                       -
+22        -                                                             22            -
+
+23        -                                                             23            -
+                                                                                                       -
+00       01                                                             00            -
+      OBS : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+          Vizitati www.ratt.ro Informatii trasee - preturi bilete/abonamente - grafice circulatie - harta MTC - forum
+          P-TA CONSILIUL EUROPEI
+               LINIA M43
+             BEREGSAU MIC-TIMISOARA
+           ZI LUCRĂTOARE               ZI NELUCRATOARE
+ORA           MINUTE       ORA             MINUTE
+ 4    -                          SAMBATA   DUMINICA
+
+ 5    42                    5     -          -
+
+ 6    57                    6     17         -
+
+ 7    -                     7     -          -
+
+ 8    48                    8     -          -
+
+ 9    -                     9     02        32
+
+10    -                    10     -          -
+
+11    -                    11     -          -
+
+12    -                    12     -          -
+
+13    48                   13     -          -
+
+14    -                    14     -          -
+
+15    -                    15     -          -
+
+16    03                   16     -          -
+
+17    -                    17     32         -
+
+18    03                   18     -          -
+
+19    -                    19     -         02
+
+20    18                   20     -          -
+
+21    -                    21     -          -
+
+22    -                    22     -          -
+
+23    -                    23     -          -
+
+00    02                   00     -          -
+

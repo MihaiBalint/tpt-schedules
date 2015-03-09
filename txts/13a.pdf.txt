@@ -1,0 +1,235 @@
+                                   PASAJ C.F.
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       44                                                      5
+6       24       49                                             6        14        44
+7       09       27       49                                    7        14        44
+8       16       29       51                                    8        14        44
+9       26                                                      9        07        24       42        59
+10      01       36                                            10        17        34       52
+11      11       51                                            11        09        27       44
+12      11       31       51                                   12        02        19       37        54
+13      11       31       51                                   13        12        29       47
+14      11       31       51                                   14        04        22       39        57
+15      11       31       51                                   15        14        27       57
+16      11       33       58                                   16        27        57
+17      21       38       56                                   17        32
+18      31                                                     18        07        52
+19      06       41                                            19        22        52
+20      16       51                                            20        22        52
+21      26                                                     21        22        52
+22      01       36                                            22        22        52
+23      08       40                                            23          -
+                          P-TA DE GROS
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       45                                                      5
+6       25       50                                             6        15        45
+7       10       28       50                                    7        15        45
+8       17       30       52                                    8        15        45
+9       27                                                      9        08        25       43
+10      02       37                                            10        00        18       35        53
+11      12       52                                            11        10        28       45
+12      12       32       52                                   12        03        20       38        55
+13      12       32       52                                   13        13        30       48
+14      12       32       52                                   14        05        23       40        58
+15      12       32       52                                   15        15        28       58
+16      12       34       59                                   16        28        58
+17      22       39       57                                   17        33
+18      32                                                     18        08        53
+19      07       42                                            19        23        53
+20      17       52                                            20        23        53
+21      27                                                     21        23        53
+22      02       37                                            22        23        53
+23      09       41                                            23          -
+                G. ALEXANDRESCU
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       46                                                      5
+6       26       51                                             6        16        46
+7       11       29       51                                    7        16        46
+8       18       31       53                                    8        16        46
+9       28                                                      9        09        26       44
+10      03       38                                            10        01        19       36        54
+11      13       53                                            11        11        29       46
+12      13       33       53                                   12        04        21       39        56
+13      13       33       53                                   13        14        31       49
+14      13       33       53                                   14        06        24       41        59
+15      13       33       53                                   15        16        29       59
+16      13       35                                            16        29        59
+17      00       23       40        58                         17        34
+18      33                                                     18        09        54
+19      08       43                                            19        24        54
+20      18       53                                            20        24        54
+21      28                                                     21        24        54
+22      03       38                                            22        24        54
+23      10       42                                            23          -
+                        VUC KARADJIC
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       47                                                      5
+6       27       52                                             6        17        47
+7       12       30       52                                    7        17        47
+8       19       32       54                                    8        18        48
+9       29                                                      9        11        28       46
+10      04       39                                            10        03        21       38        56
+11      14       54                                            11        13        31       48
+12      14       34       54                                   12        06        23       41        58
+13      14       34       54                                   13        16        33       51
+14      14       34       54                                   14        08        26       43
+15      14       34       54                                   15        00        18       30
+16      14       36                                            16        00        30
+17      01       24       41        59                         17        00        35
+18      34                                                     18        10        55
+19      09       44                                            19        25        55
+20      19       54                                            20        25        55
+21      29                                                     21        25        55
+22      04       39                                            22        25        55
+23      11       43                                            23          -
+                         P-TA A. IANCU
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       49                                                      5
+6       29       54                                             6        18        48
+7       14       32       54                                    7        18        48
+8       21       34       56                                    8        19        49
+9       31                                                      9        12        29       47
+10      06       41                                            10        04        22       39        57
+11      16       56                                            11        14        32       49
+12      16       36       56                                   12        07        24       42        59
+13      16       36       56                                   13        17        34       52
+14      16       36       56                                   14        09        27       44
+15      16       36       56                                   15        01        19       31
+16      16       38                                            16        01        31
+17      03       36       43                                   17        01        36
+18      01       36                                            18        11        56
+19      11       46                                            19        26        56
+20      21       56                                            20        26        56
+21      31                                                     21        26        56
+22      06       41                                            22        26        56
+23      13       45                                            23          -
+                                         CETATII
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       50                                                      5
+6       30       55                                             6        19        49
+7       15       33       55                                    7        19        49
+8       22       35       57                                    8        20        50
+9       32                                                      9        13        30       48
+10      07       42                                            10        05        23       40        58
+11      17       57                                            11        15        33       50
+12      17       37       57                                   12        08        25       43
+13      17       37       57                                   13        00        18       35        53
+14      17       37       57                                   14        10        28       45
+15      17       37       57                                   15        02        20       32
+16      17       39                                            16        02        32
+17      04       27       44                                   17        02        37
+18      02       37                                            18        12        57
+19      12       47                                            19        27        57
+20      22       57                                            20        27        57
+21      32                                                     21        27        57
+22      07       42                                            22        27        57
+23      14       46                                            23          -
+                                             TIMIS
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                 ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       51                                                      5
+6       31       56                                             6        20        50
+7       16       34       56                                    7        20        50
+8       23       36       58                                    8        21        51
+9       33                                                      9        14        31       49
+10      08       43                                            10        06        24       41        59
+11      18       58                                            11        16        34       51
+12      18       38       58                                   12        09        26       44
+13      18       38       58                                   13        01        19       36        54
+14      18       38       58                                   14        11        29       46
+15      18       38       58                                   15        03        21       33
+16      18       40                                            16        03        33
+17      05       28       45                                   17        03        38
+18      03       38                                            18        13        58
+19      13       48                                            19        28        58
+20      23       58                                            20        28        58
+21      33                                                     21        28        58
+22      08       43                                            22        28        58
+23      15       47                                            23          -
+            CIRCUMVALATIUNII
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       53                                                      5
+6       33       58                                             6        22        52
+7       18       36       58                                    7        22        52
+8       25       38                                             8        23        53
+9       00       35                                             9        16        33       51
+10      10       45                                            10        08        26       43
+11      20                                                     11        01        18       36        53
+12      00       20       40                                   12        11        28       46
+13      00       20       40                                   13        03        21       38        56
+14      00       20       40                                   14        13        31       48
+15      00       20       40                                   15        05        23       35
+16      00       20       40                                   16        05        35
+17      07       30       47                                   17        05        40
+18      05       40                                            18        15
+19      15       50                                            19        00        30
+20      25                                                     20        00        30
+21      00       35                                            21        00        30
+22      10       45                                            22        00        30
+23      17       49                                            23        00
+                                      P-TA 700
+   P-TA MARASTI - Str. GHE. LAZAR - Str.CLOSCA - P-TA A.
+ IANCU - P-TA DE GROS - PASAJ C.F.            ŞI RETUR.
+      Obs : faţă de orele de plecare afişate pot apărea întârzieri de până la 3 min datorită condiţiilor de trafic
+
+               ZILE LUCRĂTOARE                                                ZILE NELUCRĂTOARE
+ORA                      MINUTE                                ORA                         MINUTE
+5       56                                                      5
+6       36                                                      6        25        55
+7       01       21       39                                    7        25        55
+8       01       28       41                                    8        26        56
+9       03       38                                             9        19        36       54
+10      13       48                                            10        11        29       46
+11      23                                                     11        04        21       39        56
+12      03       23       43                                   12        14        31       49
+13      03       23       43                                   13        06        24       41        59
+14      03       23       43                                   14        16        34       51
+15      03       23       43                                   15        08        26       38
+16      03       23       45                                   16        08        38
+17      10       33       50                                   17        08        43
+18      08       43                                            18        18
+19      18       53                                            19        03        33
+20      28                                                     20        03        33
+21      03       38                                            21        03        33
+22      13       48                                            22        03        33
+23      20       52                                            23        03
+
